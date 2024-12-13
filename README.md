@@ -1,9 +1,14 @@
+About Me:
 - My name is Flynn
-- I am a Computer Science Student
-  
+- I am a student studying Computer Science
+- I enjoy experimenting in VMs, completing CTFs, creating personal projects and listening to DEFCON talks.
+
+Competencies: 
 - Programming languages: Python, C, C++
 - Specialism: Cyber Security
+
+Activity:
 - Recent Projects Completed: ShadowCrypt: Offline Password Manager
-- Hobbies: I enjoy experimenting in VMs, completing CTFs and creating personal projects
+- Current Goals: Learn Rust
 
 - If anyone wants to collaborate, feel free to reach out!
